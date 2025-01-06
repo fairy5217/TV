@@ -8,7 +8,6 @@ http://124.248.69.76:26781/douyu/1178229
 http://124.248.69.76:26781/huya/11342412
 #EXTINF:-1 tvg-id="沈腾" tvg-name="沈腾" group-title="自搜•合集",沈腾
 http://124.248.69.76:26781/huya/11601968
-
 #EXTINF:-1 tvg-id="荒野求生影视" tvg-name="荒野求生影视" group-title="自搜•合集",荒野求生影视
 http://124.248.69.76:26781/huya/24766781
 #EXTINF:-1 tvg-id="荒野求生影探2" tvg-name="荒野求生影探2" group-title="自搜•合集",荒野求生影探2
@@ -21,23 +20,8 @@ http://zby.xjqxz.top/lljdy/live.m3u8
 https://epg.pw/stream/0163d007c5f88cc778ce4b753afb81eb14f6ed35db2f1fb8f04b72b08a46eec4.ctv
 #EXTINF:-1 tvg-id="淘剧场" tvg-name="淘剧场" group-title="自搜•合集",淘剧场
 https://epg.pw/stream/6a4d00df7e820e3e344d3fbf0323a207c5e3e2560b1f7cd7a6fc3fd46fa0cd8f.ctv
-#EXTINF:-1 tvg-id="北京纪实科教8K" tvg-name="北京纪实科教8K" group-title="自搜•合集",北京纪实科教8K
-http://125.74.6.36/downflv.brtvcloud.com/8klive/8kliveok.m3u8
-http://125.74.6.30/downflv.brtvcloud.com/8klive/8kliveok.m3u8
-#EXTINF:-1 tvg-id="李连杰" tvg-name="李连杰" group-title="自搜•合集",李连杰
-http://zby.xjqxz.top/lljdy/live.m3u8
-#EXTINF:-1 tvg-id="李连杰" tvg-name="李连杰" group-title="自搜•合集",李连杰
-http://zby.xjqxz.top/lljdy/live.m3u8
-#EXTINF:-1 tvg-id="李连杰" tvg-name="李连杰" group-title="自搜•合集",李连杰
-http://zby.xjqxz.top/lljdy/live.m3u8
-#EXTINF:-1 tvg-id="李连杰" tvg-name="李连杰" group-title="自搜•合集",李连杰
-http://zby.xjqxz.top/lljdy/live.m3u8
-#EXTINF:-1 tvg-id="李连杰" tvg-name="李连杰" group-title="自搜•合集",李连杰
-http://zby.xjqxz.top/lljdy/live.m3u8
-#EXTINF:-1 tvg-id="李连杰" tvg-name="李连杰" group-title="自搜•合集",李连杰
-http://zby.xjqxz.top/lljdy/live.m3u8
-#EXTINF:-1 tvg-id="李连杰" tvg-name="李连杰" group-title="自搜•合集",李连杰
-http://zby.xjqxz.top/lljdy/live.m3u8
+#EXTINF:-1 tvg-id="欢乐剧场" tvg-name="欢乐剧场" group-title="自搜•合集",欢乐剧场
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
 #EXTINF:-1 tvg-id="LOVENATURE4K" tvg-name="LOVENATURE4K" tvg-logo="https://epg.iill.top/logo/LoveNature4K.png" group-title="•4K「IPV4」",Love Nature 4K「自然」
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 tvg-id="Loupe" tvg-name="Loupe" tvg-logo="https://epg.iill.top/logo/Loupe4K.png" group-title="•4K「IPV4」",Loupe 4K「视觉」
