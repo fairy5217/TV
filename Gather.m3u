@@ -14,6 +14,8 @@ http://124.248.69.76:26781/huya/24766781
 http://124.248.69.76:26781/huya/29982683
 #EXTINF:-1 tvg-id="李连杰" tvg-name="李连杰" group-title="自搜•合集",李连杰
 http://zby.xjqxz.top/lljdy/live.m3u8
+#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" group-title="自搜•合集",CCTV-1
+http://27.10.225.73:8001/udp/225.0.4.74:7980
 #EXTINF:-1 tvg-id="淘电影" tvg-name="淘电影" group-title="自搜•合集",淘电影
 https://epg.pw/stream/0163d007c5f88cc778ce4b753afb81eb14f6ed35db2f1fb8f04b72b08a46eec4.ctv
 #EXTINF:-1 tvg-id="淘剧场" tvg-name="淘剧场" group-title="自搜•合集",淘剧场
